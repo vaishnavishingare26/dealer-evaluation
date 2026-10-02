@@ -1,8 +1,7 @@
-# Dealer Evaluation System
+# ci-cd-final-project
 
 ## Project Name
-Dealer Evaluation System
+ci-cd-final-project
 
-## CI/CD
-GitHub Actions performs flake8 linting and nose unit tests.
-Tekton/OpenShift Pipelines provide cleanup, clone, lint, test, build, and deploy stages.
+## Description
+This project demonstrates CI/CD using GitHub Actions and OpenShift Pipelines.
